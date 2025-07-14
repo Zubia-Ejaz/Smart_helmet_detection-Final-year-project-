@@ -35,8 +35,6 @@ If a violation is found, the system instantly alerts the supervisor and logs the
 Due to GitHub’s file size limits, the full project is available on Google Drive.
 **[Download Full Project Folder]**(https://drive.google.com/drive/folders/1Rpih6bbXcrJ0VyM_ukEf08VwsmA6BWQH?usp=drive_link)
 
-## Folder Structure (Main Parts)
-
 ## 📬 Contact
 For queries or collaboration:
 
