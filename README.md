@@ -1,4 +1,4 @@
-#AwareWear-Ensuring Worker Safety with IoT-Powered Smart Helmet 
+# AwareWear-Ensuring Worker Safety with IoT-Powered Smart Helmet 
 A final year project developed to ensure worker safety on construction sites using IoT and AI-based technologies.
 
 ## Project Overview
@@ -14,7 +14,7 @@ If a violation is found, the system instantly alerts the supervisor and logs the
 - Attendance and safety status logging
 - Built with ESP32-CAM, Node.js, Firebase, and React
 
-## 🧑‍💻 Technologies Used
+## Technologies Used
 
 - **ESP32-CAM** – for image capture
 - **Node.js** – server-side processing
@@ -41,7 +41,7 @@ Due to GitHub’s file size limits, the full project is available on Google Driv
 For queries or collaboration:
 
  Email: zubaejaz1234@gmail.com 
- LinkedIn: [Here is my linkedin]((https://www.linkedin.com/in/zubia-ejaz-a2518929b/))]
+ LinkedIn: https://www.linkedin.com/in/zubia-ejaz-a2518929b/
 Thank you for checking out my project! Feel free to fork, clone, or suggest improvements.
 
 
